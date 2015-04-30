@@ -28,8 +28,8 @@
       <file leaf-file-name="Login.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21136767" vertical-offset="0" max-vertical-offset="563">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.27175844" vertical-offset="0" max-vertical-offset="563">
+              <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -90,8 +90,8 @@
         <option value="$PROJECT_DIR$/login.css" />
         <option value="$PROJECT_DIR$/session.php" />
         <option value="$PROJECT_DIR$/../Database/registrazione/loginsuccesso.php" />
-        <option value="$PROJECT_DIR$/Login.html" />
         <option value="$PROJECT_DIR$/../Database/registrazione/login.php" />
+        <option value="$PROJECT_DIR$/Login.html" />
       </list>
     </option>
   </component>
@@ -285,8 +285,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21136767" vertical-offset="0" max-vertical-offset="563">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.27175844" vertical-offset="0" max-vertical-offset="563">
+          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
           <folding />
         </state>
       </provider>
